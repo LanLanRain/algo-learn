@@ -1,0 +1,20 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "bitset": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp",
+        "stdexcept": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stacktrace": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
+    }
+}
